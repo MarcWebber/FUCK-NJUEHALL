@@ -26,7 +26,7 @@
 
 ### 2、登录学习平台
 
- 打开并登录 https://lms.nju.edu.cn，进入任意课程页面。
+ 打开并登录 LMS 学习平台（[lms.nju.edu.cn](https://lms.nju.edu.cn)），进入任意课程页面。
 
 ### 3、点击右下角按钮
 
